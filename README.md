@@ -49,11 +49,9 @@ Clone the repository (do this once):
 
 `cd s23-vulkan-linux-script`
 
-`chmod +x opengl-to-vulkan.sh`
-
 **Running (repeat after every device restart):**
 
-`./opengl-to-vulkan.sh`
+`sh opengl-to-vulkan.sh`
 
 Follow the on-screen menu instructions.
 
